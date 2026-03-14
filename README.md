@@ -20,11 +20,11 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-<strong>Backend:</strong> <img src="https://skillicons.dev/icons?i=java,spring,hibernate" height="25"/> &nbsp;
-<strong>Frontend:</strong> <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" height="25"/> &nbsp;
-<strong>DB:</strong> <img src="https://skillicons.dev/icons?i=mysql" height="25"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="25"/> &nbsp;
-<strong>Tools:</strong> <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" height="25"/> &nbsp;
-<strong>Testing:</strong> <img src="https://img.shields.io/badge/JUnit-25A162?style=flat" height="25"/> <img src="https://img.shields.io/badge/Mockito-8A4182?style=flat" height="25"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest" height="25"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate" height="30"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" height="30"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=mysql,oracle" height="30"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" height="30"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=jest,junit,mockito" height="30"/>
 </p>
 
 ---
