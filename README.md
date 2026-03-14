@@ -1,138 +1,81 @@
-<!-- Top Banner -->
+<!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:007CF0&height=220&section=header&text=Prince%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:007CF0&height=200&section=header&text=Prince%20Kumar&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h2 align="center">Hi 👋 I'm Prince Kumar</h2>
 <h3 align="center">Java Full Stack Developer @ Virtusa</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Microservices+Developer;Docker+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Microservices+Developer"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-<p align="center">
-
-🔭 Java Full Stack Developer **@ Virtusa**  
-🌱 Currently learning **Cloud & Advanced Microservices**  
-💬 Ask me about **Java • Spring Boot • React • System Design**  
-⚡ Fun fact: **I turn coffee ☕ into code**
-
-</p>
+- 🔭 Java Full Stack Developer **@ Virtusa**
+- 🌱 Learning **Microservices & Cloud**
+- 💬 Ask me about **Java, Spring Boot, React**
+- ⚡ Fun fact: **Coffee ☕ → Code**
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## 💻 Backend Development
+**Backend**
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
-
-<br>
-
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=spring"/>
-<img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge"/>
-
 </p>
 
----
+**Frontend**
 
-## 🌐 Frontend Development
-
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
-
 </p>
 
----
+**Database**
 
-## 🗄 Databases
-
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=mysql" />
-
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
 </p>
+
+**Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+</p>
+
+**Testing**
+
+JUnit • Mockito • Jest
 
 ---
 
-## ⚙️ DevOps & Containerization
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Prince-kumar91&show_icons=true&theme=tokyonight"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-kumar91&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🧪 Testing
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mockito-8A4182?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest"/>
-
-</p>
-
----
-
-## 🛠 Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,git,github" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prince-kumar91&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-kumar91&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/princekumar27">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:bharati.pk321@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
-
----
-
-<p align="center">
-
-✨ **Code • Build • Learn • Repeat** ✨
-
-</p>
-
-<!-- Footer -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00C2FF&height=120&section=footer"/>
 </p>
