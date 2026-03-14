@@ -48,9 +48,15 @@
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 </p>
 
-**Testing**
+## 🧪 Testing
 
-JUnit • Mockito • Jest
+<p align="center">
+
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mockito-8A4182?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest"/>
+
+</p>
 
 ---
 
